@@ -1,4 +1,4 @@
-# About SHU-DS-LaTex-Template
+# About SHU-OS-LaTex-Template
 
 本模板是上海大学操作系统课程研讨/实验报告的LaTex模板，基于课程所给文档格式进行了排版。
 
